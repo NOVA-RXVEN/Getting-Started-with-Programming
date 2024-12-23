@@ -1,0 +1,7 @@
+print("Welcome to the worl of Prohramming!")
+print(15)
+print(15+20)
+print("15" + "20")
+print("My name is Liban and I am 10+3 Years old")
+print("My name is Liban and I am", 10+3 , "Years old.")
+print(f"My name is Liban and I am {10+3} Years old")
